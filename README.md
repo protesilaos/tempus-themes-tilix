@@ -1,8 +1,8 @@
 # Tempus themes for Tilix terminal
 
-<!-- ## Automatic installation -->
+## Automatic installation
 
-<!-- If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-tilix/). -->
+If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-tilix/).
 
 ## Manual installation instructions
 
