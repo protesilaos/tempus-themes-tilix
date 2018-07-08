@@ -1,5 +1,7 @@
 # Tempus themes for Tilix terminal
 
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-tilix).**
+
 ## Automatic installation
 
 If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-tilix/).
